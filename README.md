@@ -1,2 +1,2 @@
-#CPIT 380 Project 
-##Digital Avatar Creator 
+# CPIT 380 Project 
+## Digital Avatar Creator 
